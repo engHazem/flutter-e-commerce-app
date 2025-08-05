@@ -4,17 +4,17 @@ A simple e-commerce mobile app built with Flutter. The application includes esse
 📱 Splash Screen
 Displays the app logo on launch.
 Automatically navigates to the welcome page after a few seconds.
-https://github.com/user-attachments/assets/f1970278-ca3c-4ec7-9576-3ede5289ccbb
+
 👋 Welcome Page
 Displays a full-screen background image.
 Includes two buttons:
-Sign In: Navigate to login page.
-Sign Up: Navigate to register page.
+Sign In: Navigate to login page , Sign Up: Navigate to register page.
 
 🔐 Login Page
 Users can log in using email and password.
 Includes input validation and error handling.
 Integrated with Firebase Authentication.
+
 📝 Register Page
 Allows new users to create an account by providing:
 Name
@@ -36,6 +36,7 @@ Large product image
 Product name and price
 Product description
 "Add to Cart" button
+
 🛒 Cart Page
 Displays all products added to the cart.
 Features include:
