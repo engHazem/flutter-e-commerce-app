@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437991889757",
+    "project_id": "mobile-graduation-project",
+    "storage_bucket": "mobile-graduation-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437991889757:android:e3a86024dc7412a2a326b4",
+        "android_client_info": {
+          "package_name": "com.test.flutter_test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaydSVeeoMhSPYFwTYZDKzaYy0As9Sjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
