@@ -4,7 +4,7 @@ A simple e-commerce mobile app built with Flutter. The application includes esse
 📱 Splash Screen
 Displays the app logo on launch.
 Automatically navigates to the welcome page after a few seconds.
-
+https://github.com/user-attachments/assets/f1970278-ca3c-4ec7-9576-3ede5289ccbb
 👋 Welcome Page
 Displays a full-screen background image.
 Includes two buttons:
