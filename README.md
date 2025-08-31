@@ -2,7 +2,7 @@
 A simple e-commerce mobile app built with Flutter. The application includes essential features like user authentication, product display, shopping cart, favorites, and profile management.
 
 For a quick walkthrough of the app and its features, check out the video guide below:
-👉 [Watch Video Guide](https://drive.google.com/file/d/1M11gavybpGBZO54l_VoaF3rNRgetHOkd/view?usp=share_link)
+👉 <a href="https://drive.google.com/file/d/1M11gavybpGBZO54l_VoaF3rNRgetHOkd/view?usp=share_link" target="_blank">Watch Video Guide</a>
 
 📱 Splash Screen
 Displays the app logo on launch.
